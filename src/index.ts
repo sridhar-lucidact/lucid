@@ -8,6 +8,8 @@ import {APIGatewayProxyHandler, APIGatewayProxyEvent, APIGatewayProxyResult} fro
   };
 };*/
 
-export const ping = ():void => {
-    console.log('Pinged...');
+export default {
+    ping: () => {
+        console.log('Pinged...');
+    }
 }

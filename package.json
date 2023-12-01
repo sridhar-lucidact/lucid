@@ -1,8 +1,8 @@
 {
   "name": "lucid",
-  "version": "1.0.1",
+  "version": "3.0.1",
   "description": "",
-  "main": "lucid.js",
+  "main": "index.js",
   "private": "true",
   "scripts": {
     "build": "tsc",
