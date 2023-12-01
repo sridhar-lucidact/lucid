@@ -7,3 +7,7 @@ export const sendResponse: APIGatewayProxyHandler = async (event: APIGatewayProx
     body
   };
 };
+
+export const ping = ():void => {
+    console.log('Pinged...');
+}
