@@ -1,6 +1,6 @@
 {
-  "name": "lucid",
-  "version": "3.0.1",
+  "name": "@lucidact-health-inc/lucid",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "private": "true",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/sridhar-lucidact/lucid.git"
   },
-  "author": "",
+  "author": "Sridhar Gudimela",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sridhar-lucidact/lucid/issues"
