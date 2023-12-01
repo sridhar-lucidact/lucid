@@ -1,0 +1,4 @@
+# package directories
+dist
+node_modules
+jspm_packages
