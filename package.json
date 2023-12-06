@@ -2,8 +2,7 @@
   "name": "@lucidact-health-inc/lucid",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "private": "true",
+  "main": "index.js",  
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
